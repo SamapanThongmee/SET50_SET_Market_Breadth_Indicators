@@ -21,22 +21,22 @@ Integration with popular data sources to fetch raw stock data for analysis.
 
 ### Screenshot
 #### SET50 Index: Advances-Unchanged-Declines and McClellan Oscillator
-<img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/AdvUncDec_McClellanOsc.png" height="600" width="1200" >
+<img src="https://github.com/SamapanThongmee/SET50_SET_Market_Breadth_Indicators/blob/main/SET50_AdvUncDec_McClellanOsc.png" height="600" width="1200" >
 
-#### SET50 Index: Moving Averages and Advances-to-Declines
-<img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/MA_AdvDec.png" height="600" width="1200" >
+#### SET50 Index: Moving Averages
+<img src="https://github.com/SamapanThongmee/SET50_SET_Market_Breadth_Indicators/blob/main/SET50_MovingAverage.png" height="600" width="1200" >
 
 #### SET50 Index: New High and New Low
-<img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/NHNL.png" height="600" width="1200" >
+<img src="https://github.com/SamapanThongmee/SET50_SET_Market_Breadth_Indicators/blob/main/SET50_NewHigh_NewLow.png" height="600" width="1200" >
 
 #### SET Index: Advances-Unchanged-Declines and McClellan Oscillator
-<img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/AdvUncDec_McClellanOsc.png" height="600" width="1200" >
+<img src="https://github.com/SamapanThongmee/SET50_SET_Market_Breadth_Indicators/blob/main/SET_AdvUncDec_McClellanOsc.png" height="600" width="1200" >
 
-#### SET Index: Moving Averages and Advances-to-Declines
-<img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/MA_AdvDec.png" height="600" width="1200" >
+#### SET Index: Moving Averages
+<img src="https://github.com/SamapanThongmee/SET50_SET_Market_Breadth_Indicators/blob/main/SET_MovingAverage.png" height="600" width="1200" >
 
 #### SET Index: New High and New Low
-<img src="https://github.com/SamapanThongmee/thailand_market_breadth/blob/main/images/NHNL.png" height="600" width="1200" >
+<img src="https://github.com/SamapanThongmee/SET50_SET_Market_Breadth_Indicators/blob/main/SET_NewHigh_NewLow.png" height="600" width="1200" >
 
 ### Google Colab
 - [SET50_SET_Market_Breadth.ipynb](https://colab.research.google.com/drive/17s5aWSCQDlIkQpIOAhq2S1LE1kjcl1k2#scrollTo=lxjhSCo0Y9AZ)
