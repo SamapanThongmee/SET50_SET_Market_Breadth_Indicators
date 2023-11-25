@@ -32,6 +32,9 @@ Integration with popular data sources to fetch raw stock data for analysis.
 ### Google Colab
 - [SET50_SET_Market_Breadth.ipynb](https://colab.research.google.com/drive/17s5aWSCQDlIkQpIOAhq2S1LE1kjcl1k2#scrollTo=lxjhSCo0Y9AZ)
 
+### Google Looker Studio
+- [Interactive Dashboard (Daily Update)](https://lookerstudio.google.com/reporting/e7fa79b0-3b52-4e54-8b1f-94e84f2b8156)
+
 ### Appendix
 
 The Complete Guide to Market Breadth Indicators by Gregory L. Morris.
